@@ -1,0 +1,10 @@
+C:\Users\emman\Desktop\Curso de C#\Actividad4\Actividad4\bin\Debug\Actividad4.exe.config
+C:\Users\emman\Desktop\Curso de C#\Actividad4\Actividad4\bin\Debug\Actividad4.exe
+C:\Users\emman\Desktop\Curso de C#\Actividad4\Actividad4\bin\Debug\Actividad4.pdb
+C:\Users\emman\Desktop\Curso de C#\Actividad4\Actividad4\obj\Debug\Actividad4.csprojAssemblyReference.cache
+C:\Users\emman\Desktop\Curso de C#\Actividad4\Actividad4\obj\Debug\Actividad4.Form1.resources
+C:\Users\emman\Desktop\Curso de C#\Actividad4\Actividad4\obj\Debug\Actividad4.Properties.Resources.resources
+C:\Users\emman\Desktop\Curso de C#\Actividad4\Actividad4\obj\Debug\Actividad4.csproj.GenerateResource.cache
+C:\Users\emman\Desktop\Curso de C#\Actividad4\Actividad4\obj\Debug\Actividad4.csproj.CoreCompileInputs.cache
+C:\Users\emman\Desktop\Curso de C#\Actividad4\Actividad4\obj\Debug\Actividad4.exe
+C:\Users\emman\Desktop\Curso de C#\Actividad4\Actividad4\obj\Debug\Actividad4.pdb
